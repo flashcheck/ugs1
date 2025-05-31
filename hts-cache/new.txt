@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:23:51	90/90	---MCZ	200	added ('OK')	text/plain	etag:W/%22ef78e87fb366a673a45a475b7914cf54%22	https://checktron.org/robots.txt		(from )
+15:23:52	765/765	---MCZ	200	added ('OK')	text/html	date:Mon,%2026%20May%202025%2009:53:52%20GMT	https://checktron.org/	C:/My%20Web%20Sites/checktron/checktron.org/index.html	(from )
+15:23:52	32038/32038	---M--	200	added ('OK')	null	etag:%22ad86580b0b18827db0f5569634bf59c0%22	https://checktron.org/favicon.ico	C:/My%20Web%20Sites/checktron/checktron.org/favicon.ico	(from https://checktron.org/)
+15:23:52	5347/5347	---M--	200	added ('OK')	image/png	etag:%22fa61cd1a426f788b23866d09edb90401%22	https://checktron.org/logo192.png	C:/My%20Web%20Sites/checktron/checktron.org/logo192.png	(from https://checktron.org/)
+15:23:52	492/492	---MCZ	200	added ('OK')	application/json	etag:W/%225e72be41a437c8091c14f1238c2c833a%22	https://checktron.org/manifest.json	C:/My%20Web%20Sites/checktron/checktron.org/manifest.json	(from https://checktron.org/)
+15:23:53	723032/723032	---MCZ	200	added ('OK')	text/css	etag:W/%2285435fe0d2d5851b862aef5bf1dec7d4%22	https://checktron.org/static/css/main.4e2bf01b.css	C:/My%20Web%20Sites/checktron/checktron.org/static/css/main.4e2bf01b.css	(from https://checktron.org/)
+15:23:53	3052082/3052082	---MCZ	200	added ('OK')	application/javascript	etag:W/%2207762c5db6cc99e608bb435b0ffa4313%22	https://checktron.org/static/js/main.2c38fe3e.js	C:/My%20Web%20Sites/checktron/checktron.org/static/js/main.2c38fe3e.js	(from https://checktron.org/)
